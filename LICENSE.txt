@@ -2,3 +2,4 @@ This is License fie
 Git manage modify 
 test GIthub
 create a new branch is quick
+create a new branch is quick & simple
